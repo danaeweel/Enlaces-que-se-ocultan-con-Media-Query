@@ -1,0 +1,52 @@
+@media (max-width: 1200px) {
+    .iiiil {
+      display: none;
+      padding: 20px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .iiil {
+      display: none;
+      padding: 20px;
+    }
+}
+@media (max-width: 768px) {
+    .iil {
+      display: none;
+      padding: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .il {
+      display: none;
+      padding: 20px;
+      
+      
+    }
+}
+
+li {
+    
+    padding: 20px;
+    display: inline;
+    text-decoration: none;
+}
+
+.bd {
+    background-color: lightsalmon;
+}
+
+li>a:hover {
+    
+    padding: 20px;
+    background-color: green;
+    text-decoration: none;
+  }
+
+li>a {
+    background-color: turquoise;
+    padding: 20px;
+    text-decoration: none;
+}
